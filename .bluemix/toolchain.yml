@@ -13,11 +13,11 @@ template:
     - sample-repo
   info:
     git url: >-
-      [https://github.com/open-toolchain/simple-toolchain-hosted](https://github.com/open-toolchain/simple-toolchain-hosted)
+      [https://github.com/open-toolchain/simple-toolchain-hosted](https://github.com/open-toolchain/bluegreen-cf-toolchain)
     git branch: >-
-      [master](https://github.com/open-toolchain/simple-toolchain-hosted/tree/master)
+      [master](https://github.com/open-toolchain/bluegreen-cf-toolchain/tree/master)
 toolchain:
-  name: 'simple-toolchain-{{timestamp}}'
+  name: 'blue-green-toolchain-{{timestamp}}'
   template:
     getting_started:
       $ref: "#/messages/template.gettingStarted"
