@@ -13,7 +13,7 @@ This Hello World application uses Node.js and includes a DevOps toolchain that i
 
 * [TBD - Step by step tutorial](https://www.ibm.com/devops/method/tutorials/tbd)
 * [Blue-green deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
-* [Cloud Foundry doc on blue-green deploy]https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
+* [Cloud Foundry doc on blue-green deploy](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
 * [Getting started with IBM Cloud DevOps](https://bluemix.net/devops)
 * [Documentation](https://console.bluemix.net/docs/services/ContinuousDelivery/index.html?pos=2)
 * [Toolchains on the IBM Cloud Garage Method site](https://www.ibm.com/devops/method/category/tools)
